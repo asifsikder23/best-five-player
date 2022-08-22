@@ -19,6 +19,9 @@
     background-size: cover;
     margin-top: 1.5%;
 }
+.click-btn{
+    width: 100%;
+}
 @media (max-width: 925px) {
     .banner-title{
         font-size: 25px;
