@@ -1,0 +1,21 @@
+.background{
+    background-color: rgb(26, 26, 26);
+}
+.banner{
+    background-image: url(resources/pngwing.com\ \(3\).png);
+    background-color: black;    
+}
+.cards{
+    background-color: black;
+}
+#per-player{
+    height: 40px;
+}
+@media (max-width: 925px) {
+    .banner-title{
+        font-size: 25px;
+    }
+    .banner-caption{
+        font-size: 10px;
+    }
+}
