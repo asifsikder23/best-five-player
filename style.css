@@ -11,6 +11,9 @@
 #per-player{
     height: 40px;
 }
+.icon{
+    font-size: 10px;
+}
 @media (max-width: 925px) {
     .banner-title{
         font-size: 25px;
