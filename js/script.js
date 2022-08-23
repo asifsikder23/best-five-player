@@ -17,7 +17,7 @@ for(let playerBtn of playersBtn){
         }
     })
 }
-// calculate the expense for per player ursing common function
+// calculate the expense for per player using common function
 function getValue(inputID){
     const input = document.getElementById(inputID);
     const inputValue = parseInt(input.value);
